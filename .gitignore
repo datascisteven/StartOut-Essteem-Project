@@ -117,3 +117,5 @@ dmypy.json
 extra/
 website/
 final.geojson
+
+data/
